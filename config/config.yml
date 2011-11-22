@@ -1,0 +1,25 @@
+# Title and subheading for your site. Used on the home page and in page
+# titles.
+#
+title: "Blog and Note of Nurul Imam"
+subtitle: "Just a note about me, music, computer, internet, and web design"
+
+author:
+  name: Nurul Imam
+  uri: http://www.nurulimam.com/
+  email: me@nurulimam.com
+
+theme: simple
+
+disqus_short_name: nurulimam
+
+cache: false
+
+content: content
+
+# google_analytics_code: "UA-26389582-1"
+
+# production:
+#   cache: true    
+#   content: /var/apps/nesta/shared/content
+#   google_analytics_code: "UA-26389582-1"
